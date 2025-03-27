@@ -25,4 +25,5 @@ public class FunRestController {
     public String getDailyFortune(){
         return "Today is your lucky day!";
     }
+
 }
